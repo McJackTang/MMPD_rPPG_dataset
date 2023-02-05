@@ -29,17 +29,22 @@ The dataset and codes will be uploaded soon with paper publication.
 ## The Dataset Structure
 ```
 MMPD_videos.tar.gz[wait for edited]
-  pxx_x.mat
-  ├── video        # Rendered images of the subjects at 320 x 240 resolution     [t, w, h, c]
-  ├── GT_ppg       # PPG wavefrom signal                                         [t]
-  ├── light        
-  ├── motion
-  ├── exercise
-  ├── skin_color
-  ├── gender
-  ├── glasser
-  ├── hair_cover
-  ├── makeup
+├── subject1
+    ├── p1_0.mat
+        ├── video        # Rendered images of the subjects at 320 x 240 resolution     [t, w, h, c]
+        ├── GT_ppg       # PPG wavefrom signal                                         [t]
+        ├── light        
+        ├── motion
+        ├── exercise
+        ├── skin_color
+        ├── gender
+        ├── glasser
+        ├── hair_cover
+        ├── makeup
+    ├── ... .mat
+    ├── p1_19.mat
+├── ...
+├── subject33
 ```
  
 Reading the data example:
