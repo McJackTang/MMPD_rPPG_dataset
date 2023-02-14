@@ -123,6 +123,6 @@ There are two ways for downloads： OneDrive and Baidu Netdisk for researchers o
 For those researchers at China, hard disk could also be a solution.
 
 ## Citation
-Title: MMPD: Multi-Domain Mobile Video Physiology Dataset
-Jiankai Tang, Kequan Chen, Yuntao Wang, Yuanchun Shi, Shwetak Patel, Daniel McDuff, Xin Liu
+Title: MMPD: Multi-Domain Mobile Video Physiology Dataset  
+Jiankai Tang, Kequan Chen, Yuntao Wang, Yuanchun Shi, Shwetak Patel, Daniel McDuff, Xin Liu   
 <https://doi.org/10.48550/arXiv.2302.03840>
