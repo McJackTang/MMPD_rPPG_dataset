@@ -116,10 +116,13 @@ In this paper, we investigated how state-of-the-art supervised neural network pe
 <img src='https://github.com/McJackTang/Markdown_images/blob/main/DeepLearning.png' width = 70% height = 70% />
 
 ## Access and Usage
-**This dataset is built for academic use. Any commerical usage is banned.**  
-To access the dataset, you are supposed download this letter of commitment: [wait for upload]. Send an email to <tjk19@mails.tsinghua.edu> and <yuntaowang@tsinghua.edu.cn> with the signed or sealed protocol as attachment.  
+**This dataset is built for academic use. Any commercial usage is banned.**  
+To access the dataset, you are supposed download this [letter of commitment]: (https://github.com/McJackTang/MMPD_rPPG_dataset/blob/main/Data%20Usage%20Protocol.pdf). Send an email to <tjk19@mails.tsinghua.edu> and <yuntaowang@tsinghua.edu.cn> with the signed or sealed protocol as attachment.  
 There are four kinds of dataset for convenience: full dataset, simple dataset, semi-hard dataset, hard dataset for different kinds of use.  
 There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  
 For those researchers at China, hard disk could also be a solution.
 
-## Citation[wait for upload]
+## Citation
+Title: MMPD: Multi-Domain Mobile Video Physiology Dataset
+Jiankai Tang, Kequan Chen, Yuntao Wang, Yuanchun Shi, Shwetak Patel, Daniel McDuff, Xin Liu
+<https://doi.org/10.48550/arXiv.2302.03840>
