@@ -120,7 +120,7 @@ In this paper, we investigated how state-of-the-art supervised neural network pe
 
 ## Access and Usage
 **This dataset is built for academic use. Any commercial usage is banned.**  
-To access the dataset, you are supposed to download this [letter of commitment](https://github.com/McJackTang/MMPD_rPPG_dataset/blob/main/Data%20Usage%20Protocol.pdf). Send an email to <tjk19@mails.tsinghua.edu> and <yuntaowang@tsinghua.edu.cn> with the signed or sealed protocol as attachment.  
+To access the dataset, you are supposed to download this [letter of commitment](https://github.com/McJackTang/MMPD_rPPG_dataset/blob/main/Data%20Usage%20Protocol.pdf). Send an email to <tjk19@mails.tsinghua.edu.cn> and <yuntaowang@tsinghua.edu.cn> with the signed or sealed protocol as attachment.  
 There are two kinds of dataset for convenience: full dataset(370G, 320 x 240 resolution ), mini dataset(48G, 80 x 60 resolution ).  
 There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  For those researchers at China, hard disk could also be a solution.  
 You are also recommended to star this repo, we are organizing our codes and preparing for release.
