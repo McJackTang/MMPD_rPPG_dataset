@@ -107,12 +107,7 @@ def bvpsnr(BVP, FS, HR, PlotTF):
 
 
 def calculate_green(result, frame):
-    """
-    输入视频帧,完成人脸检测,返回green均值与人脸
-    :param frame:  视频帧
-    :return result: 人脸位置参数
-    :return green_channel_mean: Green均值
-    """
+
     face = frame[max(result[1], 0):min(result[3], frame.shape[0]),
                  max(result[0], 0):min(result[2], frame.shape[1])]
     face_green = face[:, :, 1]
@@ -178,12 +173,7 @@ def detrend(signal, Lambda):
 
 
 def cross_corr(s1, s2):
-    """
-    原来用的互相关函数
-    :param s1: 视频Greens
-    :param s2: bvps
-    :return:
-    """
+
     c21 = scipy.signal.correlate(s2, s1, mode='full', method='auto')
     # c21 = np.correlate(s2,s1,mode='full')
     # print(c21)
@@ -191,8 +181,7 @@ def cross_corr(s1, s2):
     len_s = len(s1)
     index = t21 - len_s+1
     delay = index
-    # 若index>0，则说明s1信号领先s2信号index个距离
-    # 若index<0，则说明s2信号领先s1信号index个距离
+
     if index > 0:
         tt1 = s2[index:]
         tt2 = s2[0:index]
@@ -209,8 +198,7 @@ def cross_corr(s1, s2):
 def cross_back(delay,s2):
     len_s = len(s2)
     index = -delay
-    # 若index>0，则说明s1信号领先s2信号index个距离
-    # 若index<0，则说明s2信号领先s1信号index个距离
+
     if index > 0:
         tt1 = s2[index:]
         tt2 = s2[0:index]
@@ -227,8 +215,7 @@ def cross_back(delay,s2):
 def double_cross_back(delay,frames,s2):
     len_s = len(s2)
     index = -delay
-    # 若index>0，则说明s1信号领先s2信号index个距离
-    # 若index<0，则说明s2信号领先s1信号index个距离
+
     h = 320
     w = 240
     cross_frames = np.zeros((abs(index), h, w, 3))
@@ -305,11 +292,7 @@ def test_mat(mat_file):
                     green_channel_mean_list[delay:] = np.zeros(abs(delay))
                     bvp_to_compare[delay :] = np.zeros(abs(delay))
                 _,_,delay_new = cross_corr(green_channel_mean_list, bvp_to_compare)
-            
-                # print(delay_new)
-                # print(bvp_to_compare)
-                # print(delay,frames.shape,len(bvps))
-                # print(bvps,frames)
+
 
         except TypeError:
             print(f'{mat_file} has problem with facial_detection')
@@ -322,6 +305,4 @@ def test_mat(mat_file):
 if __name__ == "__main__":
     matpath = "/data/rPPG_dataset/mat_dataset/subject6/p6_8.mat"
     frames_after,bvps_after = test_mat(matpath)
-    
-    # _, bvps, delay = cross_corr(frames_after,bvps_after)
-    # print(delay)
+
