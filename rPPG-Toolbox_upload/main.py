@@ -37,6 +37,8 @@ def add_args(parser):
     parser.add_argument('--config_file', required=False,
                         default="/data/rPPG-Toolbox/configs/MMPD_MMPD_PURE_TSCAN_BASIC_LARGE.yaml", type=str, help="The name of the model.")
     '''Neural Method Sample YAMSL LIST:
+      PURE_PURE_MMPD.yaml
+      UBFC_UBFC_MMPD.yaml
       SCAMPS_SCAMPS_UBFC_TSCAN_BASIC.yaml
       SCAMPS_SCAMPS_UBFC_DEEPPHYS_BASIC.yaml
       SCAMPS_SCAMPS_UBFC_PHYSNET_BASIC.yaml
