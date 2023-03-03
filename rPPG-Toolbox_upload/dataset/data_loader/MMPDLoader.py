@@ -1,5 +1,10 @@
-""" The dataloader for Tang datasets.
+""" The dataloader for MMPD datasets.
 
+Details for the MMPD Dataset see https://github.com/McJackTang/MMPD_rPPG_dataset
+If you use this dataset, please cite the following publication:
+MMPD: Multi-Domain Mobile Video Physiology Dataset
+Jiankai Tang, Kequan Chen, Yuntao Wang, Yuanchun Shi, Shwetak Patel, Daniel McDuff, Xin Liu
+https://doi.org/10.48550/arXiv.2302.03840
 """
 
 import os
