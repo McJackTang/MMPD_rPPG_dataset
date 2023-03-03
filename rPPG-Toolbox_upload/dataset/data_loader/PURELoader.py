@@ -119,35 +119,6 @@ class PURELoader(BaseLoader):
             os.path.join(data_dirs[i]['path'], "{0}.json".format(filename)))
 
         bvps = sample(bvps, frames.shape[0])
-
-        ####################################################
-        # print(frames.shape, bvps.shape)
-        # frames_RGB = copy.deepcopy(frames)
-        # green_channel_mean = face_detection(20, frames_RGB)
-        # green_channel_mean = np.array(green_channel_mean)
-        # pulse_pred = detrend(green_channel_mean, 100)
-        # [b_pulse, a_pulse] = butter(1, [0.7 / 30 * 2, 2.6 / 30 * 2], btype='bandpass')
-        # green_channel_mean = filtfilt(b_pulse, a_pulse, np.double(pulse_pred))
-
-        # green_channel_mean = green_channel_mean - np.min(green_channel_mean)
-        # green_channel_mean = green_channel_mean / np.max(green_channel_mean)
-        # bvps_conc = copy.deepcopy(bvps)
-        # bvps_conc = bvps_conc - np.min(bvps_conc)
-        # bvps_conc = bvps_conc / np.max(bvps_conc)
-
-        # _, bvps_conc, delay = cross_corr(green_channel_mean, bvps_conc)
-
-        # plt.figure()
-        # plt.plot(np.reshape(green_channel_mean[500:1000], [-1, 1]))
-        # plt.plot(np.reshape(bvps_conc[500:1000], [-1, 1]))
-        # plt.legend(['camera', 'oximeter'], loc='upper right')
-        # plt.text(0, 0.9, f'delay={delay}', fontsize=15)
-        # plt.show()
-        # plt.savefig('/data/rPPG-Toolbox/PURE_sync_pic/' + filename + '_delay.jpg')
-
-        # cv2.imwrite('/data/rPPG-Toolbox/PURE_sync_pic/' + filename + '_face.jpg', frames[600, :, :, [2, 1, 0]])
-        ####################################################
-
         frames_clips, bvps_clips = self.preprocess(frames, bvps, config_preprocess, config_preprocess.LARGE_FACE_BOX)
         count, input_name_list, label_name_list = self.save_multi_process(frames_clips, bvps_clips, saved_filename)
         file_list_dict[i] = input_name_list
