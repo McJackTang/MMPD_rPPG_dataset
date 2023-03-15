@@ -15,7 +15,7 @@ The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(115
 |Skin Tone 6<br />Walking   |![](gif/LED-low_W.gif)|![](gif/LED-high_W.gif)|![](gif/Incandescent_W.gif)|![](gif/Nature_W.gif)|
 
 ## Experiment Procedure  
-<img src='https://github.com/McJackTang/Markdown_images/blob/main/procedure.png' width = 100% height = 100% />
+<img src='https://github.com/McJackTang/Markdown_images/blob/main/procedure.png' width = 50% height = 50% />
 
 ## Distribution
 <!DOCTYPE html>
