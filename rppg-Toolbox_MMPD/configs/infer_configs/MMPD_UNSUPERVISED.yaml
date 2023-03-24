@@ -16,7 +16,7 @@ UNSUPERVISED:
     FS: 30
     DATASET: MMPD
     DO_PREPROCESS: False                  # if first time, should be true
-    DATA_FORMAT: NDCHW
+    DATA_FORMAT: NDHWC
     DATA_PATH:   "/data/rPPG_dataset/mat_dataset"          # Raw dataset path, need to be updated
     CACHED_PATH: "/data/rPPG_dataset/processed_dataset"      # Processed dataset save path, need to be updated
     EXP_DATA_NAME: ""
