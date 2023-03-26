@@ -105,14 +105,14 @@ print(f.keys())
 In the simplest scenerio, we only include the stationary, skin tone type 3, and artificial light conditions as benchmark.
 | METHODS      | MAE  | RMSE  | MAPE  | PEARSON |
 |--------------|------|-------|-------|---------|
-| ICA          | 7.62 | 11.51 | 10.28 | 0.28    |
-| POS          | 6.98 | 12.74 | 10.83 | 0.02    |
-| CHROME       | 6.79 | 11.08 | 10.26 | 0.17    |
-| GREEN        | 9.98 | 14.65 | 13.83 | 0.25    |
-| LGI          | 5.93 | 10.71 | 8.15  | 0.29    |
-| PBV          | 5.5  | 8.51  | 7.58  | 0.62    |
-| TS-CAN(PURE) | **1.46** |**3.33** | **1.98** |**0.94**  |
-| TS-CAN(UBFC) | 3.17 | 6.65  | 4.81  | 0.77    |
+| ICA          | 8.75 | 12.35 | 12.26 | 0.21    |
+| POS          | 7.69 | 11.95 | 11.45 | 0.19    |
+| CHROME       | 8.81 | 13.18 | 12.95 | -0.03   |
+| GREEN        | 10.57| 15.03 | 14.59 | 0.23    |
+| LGI          | 7.46 | 11.92 | 10.12 | 0.12    |
+| PBV          | 8.15 | 11.52 | 11.04 | 0.35    |
+| TS-CAN(PURE) | **1.78** |**3.57** | **2.47** |**0.93**  |
+| TS-CAN(UBFC) | 1.46 | 3.13  | 2.04  | 0.94    |
 
 ### Unsupervised Signal Processing Methods
 
