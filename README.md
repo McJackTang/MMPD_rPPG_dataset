@@ -111,8 +111,8 @@ In the simplest scenerio, we only include the stationary, skin tone type 3, and 
 | GREEN        | 10.57| 15.03 | 14.59 | 0.23    |
 | LGI          | 7.46 | 11.92 | 10.12 | 0.12    |
 | PBV          | 8.15 | 11.52 | 11.04 | 0.35    |
-| TS-CAN(PURE) | **1.46** |**3.33** | **1.98** |**0.94**  |
-| TS-CAN(UBFC) | 3.17 | 6.65  | 4.81  | 0.77    |
+| TS-CAN(PURE) | **1.78** |**3.57** | **2.47** |**0.93**  |
+| TS-CAN(UBFC) | 1.46 | 3.13  | 2.04  | 0.94    |
 
 ### Unsupervised Signal Processing Methods
 
