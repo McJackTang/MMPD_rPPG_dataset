@@ -5,11 +5,11 @@
 Here is MMPD: Multi-Domain Mobile Video Physiology Dataset collected by Tsinghua University.
 The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(1152K frames) of recordings from mobile phones of 33 subjects. The dataset was designed to capture videos with greater representation across skin tone, body motion, and lighting conditions. MMPD is comprehensive with eight descriptive labels and can be used in conjunction with the [rPPG-toolbox](https://github.com/ubicomplab/rPPG-Toolbox).  
 
-**For those whose have downloaded or prepare to download our dataset: your are recommended to star this repo in case the dataset may be updated. (latest update in 2023/3/20)**
+**For those whose have downloaded or prepare to download our dataset: you are recommended to star this repo in case the dataset may be updated. (latest update in 2023/3/20)**
 
 Paper Link : <https://doi.org/10.48550/arXiv.2302.03840>  
 
-**Code is now updated in the rPPG-Toolbox_MMPD file fold, allowing users to choose any combination of multiple labels. The framework has been synced with [rPPG-toolbox](https://github.com/ubicomplab/rPPG-Toolbox). Some results in the paper may be changed slightly. More details would be uploaded soon.**
+**Code is now updated in the rPPG-Toolbox_MMPD file fold, allowing users to choose any combination of multiple labels. The framework has been synced with [rPPG-toolbox](https://github.com/ubicomplab/rPPG-Toolbox). Some results in the paper may be changed. More details would be uploaded soon.**
 
 ## Samples
 |                           |LED-low|LED-high|Incandescent|Nature|
