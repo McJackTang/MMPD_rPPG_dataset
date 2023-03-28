@@ -134,6 +134,16 @@ There are two ways for downloads： OneDrive and Baidu Netdisk for researchers o
 
 
 ## Citation
-Title: MMPD: Multi-Domain Mobile Video Physiology Dataset  
+Title: [MMPD: Multi-Domain Mobile Video Physiology Dataset](https://doi.org/10.48550/arXiv.2302.03840)  
 Jiankai Tang, Kequan Chen, Yuntao Wang, Yuanchun Shi, Shwetak Patel, Daniel McDuff, Xin Liu   
-<https://doi.org/10.48550/arXiv.2302.03840>
+
+```
+@misc{tang2023mmpd,
+      title={MMPD: Multi-Domain Mobile Video Physiology Dataset}, 
+      author={Jiankai Tang and Kequan Chen and Yuntao Wang and Yuanchun Shi and Shwetak Patel and Daniel McDuff and Xin Liu},
+      year={2023},
+      eprint={2302.03840},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
