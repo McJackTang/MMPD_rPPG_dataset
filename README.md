@@ -19,6 +19,13 @@ Paper Link : <https://doi.org/10.48550/arXiv.2302.03840>
 |Skin Tone 5<br />Talking   |![](gif/LED-low_T.gif)|![](gif/LED-high_T.gif)|![](gif/Incandescent_T.gif)|![](gif/Nature_T.gif)|
 |Skin Tone 6<br />Walking   |![](gif/LED-low_W.gif)|![](gif/LED-high_W.gif)|![](gif/Incandescent_W.gif)|![](gif/Nature_W.gif)|
 
+## Access and Usage
+**This dataset is built for academic use. Any commercial usage is banned.**  
+To access the dataset, you are supposed to download this [letter of commitment](https://github.com/McJackTang/MMPD_rPPG_dataset/blob/main/Data%20Usage%20Protocol.pdf).  
+Send an email to <tjk19@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.cn> with the signed or sealed protocol as attachment.    
+There are two kinds of dataset for convenience: full dataset(370G, 320 x 240 resolution ), mini dataset(48G, 80 x 60 resolution ).    
+There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  For those researchers at China, hard disk could also be a solution.
+
 ## Experiment Procedure  
 <img src='https://github.com/McJackTang/Markdown_images/blob/main/procedure.png' width = 50% height = 50% />
 
@@ -125,11 +132,7 @@ We evaluated six traditional unsupervised methods in our dataset. In the skin to
 In this paper, we investigated how state-of-the-art supervised neural network performs on MMPD and studied the influence of skin tone, motion, and light. We used the same exclusion criteria as the evaluation on unsupervised methods.
 <!-- <img src='https://github.com/McJackTang/Markdown_images/blob/main/DeepLearning.png' width = 70% height = 70% /> -->
 
-## Access and Usage
-**This dataset is built for academic use. Any commercial usage is banned.**  
-To access the dataset, you are supposed to download this [letter of commitment](https://github.com/McJackTang/MMPD_rPPG_dataset/blob/main/Data%20Usage%20Protocol.pdf). Send an email to <tjk19@mails.tsinghua.edu.cn> and <yuntaowang@tsinghua.edu.cn> with the signed or sealed protocol as attachment.  
-There are two kinds of dataset for convenience: full dataset(370G, 320 x 240 resolution ), mini dataset(48G, 80 x 60 resolution ).  
-There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  For those researchers at China, hard disk could also be a solution.  
+  
 
 
 
