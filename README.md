@@ -1,4 +1,4 @@
-# MMPD_rPPG_dataset
+# MMPD(Accepted by EMBC 2023)
 
 ## Abstract
 
