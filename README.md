@@ -1,15 +1,26 @@
-# MMPD(Accepted by EMBC 2023)
+# MMPD[EMBC 2023]
 
 ## Abstract
 
 **Here is MMPD: Multi-Domain Mobile Video Physiology Dataset collected by Tsinghua University.**  
 The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(**1152K frames**) of recordings from mobile phones of 33 subjects. The dataset was designed to capture videos with greater representation across **skin tone, body motion, and lighting conditions**. MMPD is comprehensive with eight descriptive labels and can be used in conjunction with the [rPPG-toolbox](https://github.com/ubicomplab/rPPG-Toolbox).  
 
-**For those whose have downloaded or prepare to download our dataset: you are recommended to star this repo in case the dataset may be updated. (latest update in 2023/3/20)**
+**For those whose have downloaded or prepare to download our dataset: you are recommended to star this repo in case the dataset may be updated.**  
 
-Paper Link : <https://doi.org/10.48550/arXiv.2302.03840>  
+**Paper Updated** : <https://doi.org/10.48550/arXiv.2302.03840>  
 
 **Code is now updated in the rPPG-Toolbox_MMPD file fold, allowing users to choose any combination of multiple labels. The framework has been synced with [rPPG-toolbox](https://github.com/ubicomplab/rPPG-Toolbox). Some results in the paper may be changed. More details would be uploaded soon.**
+
+```
+@misc{tang2023mmpd,
+      title={MMPD: Multi-Domain Mobile Video Physiology Dataset}, 
+      author={Jiankai Tang and Kequan Chen and Yuntao Wang and Yuanchun Shi and Shwetak Patel and Daniel McDuff and Xin Liu},
+      year={2023},
+      eprint={2302.03840},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Samples
 |                           |LED-low|LED-high|Incandescent|Nature|
@@ -140,13 +151,4 @@ In this paper, we investigated how state-of-the-art supervised neural network pe
 Title: [MMPD: Multi-Domain Mobile Video Physiology Dataset](https://doi.org/10.48550/arXiv.2302.03840)  
 Jiankai Tang, Kequan Chen, Yuntao Wang, Yuanchun Shi, Shwetak Patel, Daniel McDuff, Xin Liu   
 
-```
-@misc{tang2023mmpd,
-      title={MMPD: Multi-Domain Mobile Video Physiology Dataset}, 
-      author={Jiankai Tang and Kequan Chen and Yuntao Wang and Yuanchun Shi and Shwetak Patel and Daniel McDuff and Xin Liu},
-      year={2023},
-      eprint={2302.03840},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
+
