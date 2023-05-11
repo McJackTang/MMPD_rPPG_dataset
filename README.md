@@ -37,7 +37,7 @@ Send an email to <tjk19@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.c
 There are two kinds of dataset for convenience: full dataset(370G, 320 x 240 resolution ), mini dataset(48G, 80 x 60 resolution ).    
 There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  For those researchers at China, hard disk could also be a solution.
 
-## Experiment Procedure  
+## Experiment Procedure[Updated]  
 <img src='https://github.com/McJackTang/Markdown_images/blob/main/procedure.png' width = 50% height = 50% />
 
 ## Distribution
