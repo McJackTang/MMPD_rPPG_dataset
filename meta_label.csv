@@ -1,0 +1,661 @@
+p,light,motion,exercise,skin_color,gender,glasser,hair_cover,makeup,file
+1,LED-low,Stationary,False,4,male,True,False,False,/subject1/p1_0.mat
+1,Incandescent,Stationary,False,4,male,True,False,False,/subject1/p1_8.mat
+1,LED-high,Walking,False,4,male,True,False,False,/subject1/p1_7.mat
+1,LED-high,Talking,False,4,male,True,False,False,/subject1/p1_6.mat
+1,LED-high,Rotation,False,4,male,True,False,False,/subject1/p1_5.mat
+1,LED-high,Stationary,False,4,male,True,False,False,/subject1/p1_4.mat
+1,LED-low,Walking,False,4,male,True,False,False,/subject1/p1_3.mat
+1,LED-low,Talking,False,4,male,True,False,False,/subject1/p1_2.mat
+1,Nature,Walking,False,4,male,True,False,False,/subject1/p1_19.mat
+1,Nature,Talking,False,4,male,True,False,False,/subject1/p1_18.mat
+1,Incandescent,Rotation,False,4,male,True,False,False,/subject1/p1_9.mat
+1,Nature,Stationary,False,4,male,True,False,False,/subject1/p1_16.mat
+1,Nature,Stationary (after exercise),True,4,male,True,False,False,/subject1/p1_15.mat
+1,LED-low,Stationary (after exercise),True,4,male,True,False,False,/subject1/p1_14.mat
+1,LED-high,Stationary (after exercise),True,4,male,True,False,False,/subject1/p1_13.mat
+1,Incandescent,Stationary (after exercise),True,4,male,True,False,False,/subject1/p1_12.mat
+1,Incandescent,Walking,False,4,male,True,False,False,/subject1/p1_11.mat
+1,Incandescent,Talking,False,4,male,True,False,False,/subject1/p1_10.mat
+1,LED-low,Rotation,False,4,male,True,False,False,/subject1/p1_1.mat
+1,Nature,Rotation,False,4,male,True,False,False,/subject1/p1_17.mat
+2,LED-low,Walking,False,4,male,True,True,False,/subject2/p2_3.mat
+2,LED-high,Stationary,False,4,male,True,True,False,/subject2/p2_4.mat
+2,Incandescent,Stationary,False,4,male,True,True,False,/subject2/p2_8.mat
+2,LED-high,Talking,False,4,male,True,True,False,/subject2/p2_6.mat
+2,LED-high,Walking,False,4,male,True,True,False,/subject2/p2_7.mat
+2,LED-low,Talking,False,4,male,True,True,False,/subject2/p2_2.mat
+2,LED-high,Rotation,False,4,male,True,True,False,/subject2/p2_5.mat
+2,Nature,Walking,False,4,male,True,True,False,/subject2/p2_19.mat
+2,LED-low,Stationary (after exercise),True,4,male,True,True,False,/subject2/p2_14.mat
+2,Nature,Rotation,False,4,male,True,True,False,/subject2/p2_17.mat
+2,Nature,Stationary,False,4,male,True,True,False,/subject2/p2_16.mat
+2,Nature,Stationary (after exercise),True,4,male,True,True,False,/subject2/p2_15.mat
+2,LED-high,Stationary (after exercise),True,4,male,True,True,False,/subject2/p2_13.mat
+2,Incandescent,Stationary (after exercise),True,4,male,True,True,False,/subject2/p2_12.mat
+2,Incandescent,Walking,False,4,male,True,True,False,/subject2/p2_11.mat
+2,Incandescent,Talking,False,4,male,True,True,False,/subject2/p2_10.mat
+2,Incandescent,Rotation,False,4,male,True,True,False,/subject2/p2_9.mat
+2,Nature,Talking,False,4,male,True,True,False,/subject2/p2_18.mat
+2,LED-low,Rotation,False,4,male,True,True,False,/subject2/p2_1.mat
+2,LED-low,Stationary,False,4,male,True,True,False,/subject2/p2_0.mat
+3,LED-high,Stationary,False,3,male,False,True,False,/subject3/p3_4.mat
+3,Incandescent,Rotation,False,3,male,False,True,False,/subject3/p3_9.mat
+3,Incandescent,Stationary,False,3,male,False,True,False,/subject3/p3_8.mat
+3,LED-high,Walking,False,3,male,False,True,False,/subject3/p3_7.mat
+3,LED-high,Talking,False,3,male,False,True,False,/subject3/p3_6.mat
+3,LED-high,Rotation,False,3,male,False,True,False,/subject3/p3_5.mat
+3,LED-low,Walking,False,3,male,False,True,False,/subject3/p3_3.mat
+3,LED-low,Talking,False,3,male,False,True,False,/subject3/p3_2.mat
+3,Nature,Walking,False,3,male,False,True,False,/subject3/p3_19.mat
+3,Nature,Rotation,False,3,male,False,True,False,/subject3/p3_17.mat
+3,Nature,Talking,False,3,male,False,True,False,/subject3/p3_18.mat
+3,Nature,Stationary (after exercise),True,3,male,False,True,False,/subject3/p3_15.mat
+3,LED-low,Stationary (after exercise),True,3,male,False,True,False,/subject3/p3_14.mat
+3,LED-high,Stationary (after exercise),True,3,male,False,True,False,/subject3/p3_13.mat
+3,Incandescent,Stationary (after exercise),True,3,male,False,True,False,/subject3/p3_12.mat
+3,Incandescent,Walking,False,3,male,False,True,False,/subject3/p3_11.mat
+3,Incandescent,Talking,False,3,male,False,True,False,/subject3/p3_10.mat
+3,LED-low,Rotation,False,3,male,False,True,False,/subject3/p3_1.mat
+3,LED-low,Stationary,False,3,male,False,True,False,/subject3/p3_0.mat
+3,Nature,Stationary,False,3,male,False,True,False,/subject3/p3_16.mat
+4,LED-high,Stationary,False,3,male,False,True,False,/subject4/p4_4.mat
+4,LED-low,Talking,False,3,male,False,True,False,/subject4/p4_2.mat
+4,LED-low,Walking,False,3,male,False,True,False,/subject4/p4_3.mat
+4,LED-high,Rotation,False,3,male,False,True,False,/subject4/p4_5.mat
+4,Nature,Stationary,False,3,male,False,True,False,/subject4/p4_16.mat
+4,LED-high,Walking,False,3,male,False,True,False,/subject4/p4_7.mat
+4,Incandescent,Stationary,False,3,male,False,True,False,/subject4/p4_8.mat
+4,Incandescent,Rotation,False,3,male,False,True,False,/subject4/p4_9.mat
+4,Nature,Walking,False,3,male,False,True,False,/subject4/p4_19.mat
+4,LED-high,Talking,False,3,male,False,True,False,/subject4/p4_6.mat
+4,Nature,Talking,False,3,male,False,True,False,/subject4/p4_18.mat
+4,Incandescent,Walking,False,3,male,False,True,False,/subject4/p4_11.mat
+4,LED-low,Stationary,False,3,male,False,True,False,/subject4/p4_0.mat
+4,Nature,Stationary (after exercise),True,3,male,False,True,False,/subject4/p4_15.mat
+4,LED-low,Stationary (after exercise),True,3,male,False,True,False,/subject4/p4_14.mat
+4,LED-high,Stationary (after exercise),True,3,male,False,True,False,/subject4/p4_13.mat
+4,Incandescent,Stationary (after exercise),True,3,male,False,True,False,/subject4/p4_12.mat
+4,Incandescent,Talking,False,3,male,False,True,False,/subject4/p4_10.mat
+4,LED-low,Rotation,False,3,male,False,True,False,/subject4/p4_1.mat
+4,Nature,Rotation,False,3,male,False,True,False,/subject4/p4_17.mat
+5,Nature,Walking,False,3,female,True,True,True,/subject5/p5_19.mat
+5,LED-low,Talking,False,3,female,True,True,True,/subject5/p5_2.mat
+5,LED-low,Walking,False,3,female,True,True,True,/subject5/p5_3.mat
+5,LED-high,Walking,False,3,female,True,True,True,/subject5/p5_7.mat
+5,LED-high,Rotation,False,3,female,True,True,True,/subject5/p5_5.mat
+5,LED-high,Talking,False,3,female,True,True,True,/subject5/p5_6.mat
+5,Nature,Talking,False,3,female,True,True,True,/subject5/p5_18.mat
+5,LED-high,Stationary,False,3,female,True,True,True,/subject5/p5_4.mat
+5,Nature,Rotation,False,3,female,True,True,True,/subject5/p5_17.mat
+5,Nature,Stationary,False,3,female,True,True,True,/subject5/p5_16.mat
+5,LED-low,Stationary (after exercise),True,3,female,True,True,True,/subject5/p5_14.mat
+5,LED-high,Stationary (after exercise),True,3,female,True,True,True,/subject5/p5_13.mat
+5,Incandescent,Stationary (after exercise),True,3,female,True,True,True,/subject5/p5_12.mat
+5,Incandescent,Walking,False,3,female,True,True,True,/subject5/p5_11.mat
+5,Incandescent,Talking,False,3,female,True,True,True,/subject5/p5_10.mat
+5,LED-low,Rotation,False,3,female,True,True,True,/subject5/p5_1.mat
+5,LED-low,Stationary,False,3,female,True,True,True,/subject5/p5_0.mat
+5,Incandescent,Rotation,False,3,female,True,True,True,/subject5/p5_9.mat
+5,Nature,Stationary (after exercise),True,3,female,True,True,True,/subject5/p5_15.mat
+5,Incandescent,Stationary,False,3,female,True,True,True,/subject5/p5_8.mat
+6,Nature,Stationary,False,3,male,False,False,False,/subject6/p6_16.mat
+6,LED-low,Rotation,False,3,male,False,False,False,/subject6/p6_1.mat
+6,Incandescent,Rotation,False,3,male,False,False,False,/subject6/p6_9.mat
+6,Incandescent,Stationary,False,3,male,False,False,False,/subject6/p6_8.mat
+6,LED-high,Walking,False,3,male,False,False,False,/subject6/p6_7.mat
+6,LED-high,Talking,False,3,male,False,False,False,/subject6/p6_6.mat
+6,LED-high,Rotation,False,3,male,False,False,False,/subject6/p6_5.mat
+6,LED-low,Walking,False,3,male,False,False,False,/subject6/p6_3.mat
+6,LED-low,Talking,False,3,male,False,False,False,/subject6/p6_2.mat
+6,Nature,Walking,False,3,male,False,False,False,/subject6/p6_19.mat
+6,Nature,Talking,False,3,male,False,False,False,/subject6/p6_18.mat
+6,LED-high,Stationary,False,3,male,False,False,False,/subject6/p6_4.mat
+6,LED-low,Stationary,False,3,male,False,False,False,/subject6/p6_0.mat
+6,Nature,Rotation,False,3,male,False,False,False,/subject6/p6_17.mat
+6,Incandescent,Walking,False,3,male,False,False,False,/subject6/p6_11.mat
+6,Incandescent,Stationary (after exercise),True,3,male,False,False,False,/subject6/p6_12.mat
+6,LED-high,Stationary (after exercise),True,3,male,False,False,False,/subject6/p6_13.mat
+6,Incandescent,Talking,False,3,male,False,False,False,/subject6/p6_10.mat
+6,Nature,Stationary (after exercise),True,3,male,False,False,False,/subject6/p6_15.mat
+6,LED-low,Stationary (after exercise),True,3,male,False,False,False,/subject6/p6_14.mat
+7,Nature,Talking,False,5,male,True,False,False,/subject7/p7_18.mat
+7,Incandescent,Rotation,False,5,male,True,False,False,/subject7/p7_9.mat
+7,LED-high,Walking,False,5,male,True,False,False,/subject7/p7_7.mat
+7,LED-high,Talking,False,5,male,True,False,False,/subject7/p7_6.mat
+7,LED-high,Rotation,False,5,male,True,False,False,/subject7/p7_5.mat
+7,LED-high,Stationary,False,5,male,True,False,False,/subject7/p7_4.mat
+7,LED-low,Walking,False,5,male,True,False,False,/subject7/p7_3.mat
+7,LED-low,Talking,False,5,male,True,False,False,/subject7/p7_2.mat
+7,Nature,Walking,False,5,male,True,False,False,/subject7/p7_19.mat
+7,Nature,Rotation,False,5,male,True,False,False,/subject7/p7_17.mat
+7,Incandescent,Stationary,False,5,male,True,False,False,/subject7/p7_8.mat
+7,Nature,Stationary (after exercise),True,5,male,True,False,False,/subject7/p7_15.mat
+7,LED-low,Stationary (after exercise),True,5,male,True,False,False,/subject7/p7_14.mat
+7,LED-high,Stationary (after exercise),True,5,male,True,False,False,/subject7/p7_13.mat
+7,Incandescent,Stationary (after exercise),True,5,male,True,False,False,/subject7/p7_12.mat
+7,Incandescent,Walking,False,5,male,True,False,False,/subject7/p7_11.mat
+7,Incandescent,Talking,False,5,male,True,False,False,/subject7/p7_10.mat
+7,LED-low,Rotation,False,5,male,True,False,False,/subject7/p7_1.mat
+7,LED-low,Stationary,False,5,male,True,False,False,/subject7/p7_0.mat
+7,Nature,Stationary,False,5,male,True,False,False,/subject7/p7_16.mat
+8,Nature,Talking,False,6,male,True,False,False,/subject8/p8_18.mat
+8,Nature,Walking,False,6,male,True,False,False,/subject8/p8_19.mat
+8,LED-low,Talking,False,6,male,True,False,False,/subject8/p8_2.mat
+8,LED-high,Talking,False,6,male,True,False,False,/subject8/p8_6.mat
+8,LED-high,Rotation,False,6,male,True,False,False,/subject8/p8_5.mat
+8,Nature,Rotation,False,6,male,True,False,False,/subject8/p8_17.mat
+8,LED-high,Stationary,False,6,male,True,False,False,/subject8/p8_4.mat
+8,Nature,Stationary,False,6,male,True,False,False,/subject8/p8_16.mat
+8,LED-low,Walking,False,6,male,True,False,False,/subject8/p8_3.mat
+8,LED-low,Stationary (after exercise),True,6,male,True,False,False,/subject8/p8_14.mat
+8,Nature,Stationary (after exercise),True,6,male,True,False,False,/subject8/p8_15.mat
+8,Incandescent,Stationary,False,6,male,True,False,False,/subject8/p8_8.mat
+8,Incandescent,Rotation,False,6,male,True,False,False,/subject8/p8_9.mat
+8,LED-low,Stationary,False,6,male,True,False,False,/subject8/p8_0.mat
+8,LED-high,Walking,False,6,male,True,False,False,/subject8/p8_7.mat
+8,Incandescent,Talking,False,6,male,True,False,False,/subject8/p8_10.mat
+8,Incandescent,Walking,False,6,male,True,False,False,/subject8/p8_11.mat
+8,Incandescent,Stationary (after exercise),True,6,male,True,False,False,/subject8/p8_12.mat
+8,LED-high,Stationary (after exercise),True,6,male,True,False,False,/subject8/p8_13.mat
+8,LED-low,Rotation,False,6,male,True,False,False,/subject8/p8_1.mat
+9,LED-high,Walking,False,3,female,True,False,False,/subject9/p9_7.mat
+9,LED-high,Talking,False,3,female,True,False,False,/subject9/p9_6.mat
+9,LED-high,Rotation,False,3,female,True,False,False,/subject9/p9_5.mat
+9,LED-high,Stationary,False,3,female,True,False,False,/subject9/p9_4.mat
+9,LED-low,Walking,False,3,female,True,False,False,/subject9/p9_3.mat
+9,LED-low,Talking,False,3,female,True,False,False,/subject9/p9_2.mat
+9,Nature,Walking,False,3,female,True,False,False,/subject9/p9_19.mat
+9,Nature,Talking,False,3,female,True,False,False,/subject9/p9_18.mat
+9,Nature,Stationary (after exercise),True,3,female,True,False,False,/subject9/p9_15.mat
+9,Nature,Stationary,False,3,female,True,False,False,/subject9/p9_16.mat
+9,LED-low,Stationary (after exercise),True,3,female,True,False,False,/subject9/p9_14.mat
+9,LED-high,Stationary (after exercise),True,3,female,True,False,False,/subject9/p9_13.mat
+9,Incandescent,Walking,False,3,female,True,False,False,/subject9/p9_11.mat
+9,Incandescent,Talking,False,3,female,True,False,False,/subject9/p9_10.mat
+9,LED-low,Rotation,False,3,female,True,False,False,/subject9/p9_1.mat
+9,LED-low,Stationary,False,3,female,True,False,False,/subject9/p9_0.mat
+9,Incandescent,Stationary,False,3,female,True,False,False,/subject9/p9_8.mat
+9,Nature,Rotation,False,3,female,True,False,False,/subject9/p9_17.mat
+9,Incandescent,Stationary (after exercise),True,3,female,True,False,False,/subject9/p9_12.mat
+9,Incandescent,Rotation,False,3,female,True,False,False,/subject9/p9_9.mat
+10,Incandescent,Stationary,False,4,female,False,False,False,/subject10/p10_8.mat
+10,Incandescent,Rotation,False,4,female,False,False,False,/subject10/p10_9.mat
+10,LED-low,Stationary,False,4,female,False,False,False,/subject10/p10_0.mat
+10,LED-low,Rotation,False,4,female,False,False,False,/subject10/p10_1.mat
+10,Incandescent,Talking,False,4,female,False,False,False,/subject10/p10_10.mat
+10,Incandescent,Walking,False,4,female,False,False,False,/subject10/p10_11.mat
+10,Incandescent,Stationary (after exercise),True,4,female,False,False,False,/subject10/p10_12.mat
+10,LED-high,Stationary (after exercise),True,4,female,False,False,False,/subject10/p10_13.mat
+10,LED-low,Stationary (after exercise),True,4,female,False,False,False,/subject10/p10_14.mat
+10,Nature,Stationary (after exercise),True,4,female,False,False,False,/subject10/p10_15.mat
+10,LED-high,Walking,False,4,female,False,False,False,/subject10/p10_7.mat
+10,Nature,Rotation,False,4,female,False,False,False,/subject10/p10_17.mat
+10,LED-high,Talking,False,4,female,False,False,False,/subject10/p10_6.mat
+10,LED-high,Rotation,False,4,female,False,False,False,/subject10/p10_5.mat
+10,LED-high,Stationary,False,4,female,False,False,False,/subject10/p10_4.mat
+10,Nature,Stationary,False,4,female,False,False,False,/subject10/p10_16.mat
+10,LED-low,Talking,False,4,female,False,False,False,/subject10/p10_2.mat
+10,Nature,Walking,False,4,female,False,False,False,/subject10/p10_19.mat
+10,Nature,Talking,False,4,female,False,False,False,/subject10/p10_18.mat
+10,LED-low,Walking,False,4,female,False,False,False,/subject10/p10_3.mat
+11,Nature,Walking,False,5,male,False,False,False,/subject11/p11_19.mat
+11,Incandescent,Stationary,False,5,male,False,False,False,/subject11/p11_8.mat
+11,LED-high,Walking,False,5,male,False,False,False,/subject11/p11_7.mat
+11,LED-high,Talking,False,5,male,False,False,False,/subject11/p11_6.mat
+11,LED-high,Rotation,False,5,male,False,False,False,/subject11/p11_5.mat
+11,LED-high,Stationary,False,5,male,False,False,False,/subject11/p11_4.mat
+11,LED-low,Walking,False,5,male,False,False,False,/subject11/p11_3.mat
+11,LED-low,Talking,False,5,male,False,False,False,/subject11/p11_2.mat
+11,Nature,Talking,False,5,male,False,False,False,/subject11/p11_18.mat
+11,Incandescent,Rotation,False,5,male,False,False,False,/subject11/p11_9.mat
+11,Nature,Stationary,False,5,male,False,False,False,/subject11/p11_16.mat
+11,Nature,Stationary (after exercise),True,5,male,False,False,False,/subject11/p11_15.mat
+11,LED-low,Stationary (after exercise),True,5,male,False,False,False,/subject11/p11_14.mat
+11,LED-high,Stationary (after exercise),True,5,male,False,False,False,/subject11/p11_13.mat
+11,Incandescent,Stationary (after exercise),True,5,male,False,False,False,/subject11/p11_12.mat
+11,Incandescent,Walking,False,5,male,False,False,False,/subject11/p11_11.mat
+11,Incandescent,Talking,False,5,male,False,False,False,/subject11/p11_10.mat
+11,LED-low,Rotation,False,5,male,False,False,False,/subject11/p11_1.mat
+11,LED-low,Stationary,False,5,male,False,False,False,/subject11/p11_0.mat
+11,Nature,Rotation,False,5,male,False,False,False,/subject11/p11_17.mat
+12,LED-low,Talking,False,3,female,True,False,False,/subject12/p12_2.mat
+12,LED-low,Walking,False,3,female,True,False,False,/subject12/p12_3.mat
+12,Incandescent,Stationary,False,3,female,True,False,False,/subject12/p12_8.mat
+12,LED-high,Talking,False,3,female,True,False,False,/subject12/p12_6.mat
+12,LED-high,Walking,False,3,female,True,False,False,/subject12/p12_7.mat
+12,Nature,Walking,False,3,female,True,False,False,/subject12/p12_19.mat
+12,Incandescent,Rotation,False,3,female,True,False,False,/subject12/p12_9.mat
+12,LED-high,Rotation,False,3,female,True,False,False,/subject12/p12_5.mat
+12,Nature,Talking,False,3,female,True,False,False,/subject12/p12_18.mat
+12,LED-high,Stationary,False,3,female,True,False,False,/subject12/p12_4.mat
+12,Nature,Stationary,False,3,female,True,False,False,/subject12/p12_16.mat
+12,Nature,Rotation,False,3,female,True,False,False,/subject12/p12_17.mat
+12,LED-low,Stationary,False,3,female,True,False,False,/subject12/p12_0.mat
+12,LED-low,Rotation,False,3,female,True,False,False,/subject12/p12_1.mat
+12,Incandescent,Talking,False,3,female,True,False,False,/subject12/p12_10.mat
+12,LED-high,Stationary (after exercise),True,3,female,True,False,False,/subject12/p12_13.mat
+12,Incandescent,Stationary (after exercise),True,3,female,True,False,False,/subject12/p12_12.mat
+12,LED-low,Stationary (after exercise),True,3,female,True,False,False,/subject12/p12_14.mat
+12,Nature,Stationary (after exercise),True,3,female,True,False,False,/subject12/p12_15.mat
+12,Incandescent,Walking,False,3,female,True,False,False,/subject12/p12_11.mat
+13,LED-high,Talking,False,5,male,False,False,False,/subject13/p13_6.mat
+13,LED-high,Rotation,False,5,male,False,False,False,/subject13/p13_5.mat
+13,LED-high,Stationary,False,5,male,False,False,False,/subject13/p13_4.mat
+13,LED-low,Walking,False,5,male,False,False,False,/subject13/p13_3.mat
+13,LED-low,Talking,False,5,male,False,False,False,/subject13/p13_2.mat
+13,Nature,Walking,False,5,male,False,False,False,/subject13/p13_19.mat
+13,Nature,Talking,False,5,male,False,False,False,/subject13/p13_18.mat
+13,Nature,Rotation,False,5,male,False,False,False,/subject13/p13_17.mat
+13,Nature,Stationary (after exercise),True,5,male,False,False,False,/subject13/p13_15.mat
+13,LED-low,Stationary (after exercise),True,5,male,False,False,False,/subject13/p13_14.mat
+13,LED-high,Stationary (after exercise),True,5,male,False,False,False,/subject13/p13_13.mat
+13,Incandescent,Walking,False,5,male,False,False,False,/subject13/p13_11.mat
+13,Incandescent,Talking,False,5,male,False,False,False,/subject13/p13_10.mat
+13,LED-low,Rotation,False,5,male,False,False,False,/subject13/p13_1.mat
+13,LED-low,Stationary,False,5,male,False,False,False,/subject13/p13_0.mat
+13,LED-high,Walking,False,5,male,False,False,False,/subject13/p13_7.mat
+13,Nature,Stationary,False,5,male,False,False,False,/subject13/p13_16.mat
+13,Incandescent,Stationary (after exercise),True,5,male,False,False,False,/subject13/p13_12.mat
+13,Incandescent,Stationary,False,5,male,False,False,False,/subject13/p13_8.mat
+13,Incandescent,Rotation,False,5,male,False,False,False,/subject13/p13_9.mat
+14,LED-low,Stationary,False,6,male,False,False,False,/subject14/p14_0.mat
+14,Incandescent,Stationary,False,6,male,False,False,False,/subject14/p14_8.mat
+14,LED-high,Walking,False,6,male,False,False,False,/subject14/p14_7.mat
+14,LED-high,Talking,False,6,male,False,False,False,/subject14/p14_6.mat
+14,LED-high,Rotation,False,6,male,False,False,False,/subject14/p14_5.mat
+14,LED-high,Stationary,False,6,male,False,False,False,/subject14/p14_4.mat
+14,LED-low,Walking,False,6,male,False,False,False,/subject14/p14_3.mat
+14,LED-low,Talking,False,6,male,False,False,False,/subject14/p14_2.mat
+14,Nature,Walking,False,6,male,False,False,False,/subject14/p14_19.mat
+14,Incandescent,Rotation,False,6,male,False,False,False,/subject14/p14_9.mat
+14,Nature,Rotation,False,6,male,False,False,False,/subject14/p14_17.mat
+14,Nature,Talking,False,6,male,False,False,False,/subject14/p14_18.mat
+14,LED-low,Rotation,False,6,male,False,False,False,/subject14/p14_1.mat
+14,Incandescent,Walking,False,6,male,False,False,False,/subject14/p14_11.mat
+14,Incandescent,Stationary (after exercise),True,6,male,False,False,False,/subject14/p14_12.mat
+14,Incandescent,Talking,False,6,male,False,False,False,/subject14/p14_10.mat
+14,LED-low,Stationary (after exercise),True,6,male,False,False,False,/subject14/p14_14.mat
+14,Nature,Stationary,False,6,male,False,False,False,/subject14/p14_16.mat
+14,Nature,Stationary (after exercise),True,6,male,False,False,False,/subject14/p14_15.mat
+14,LED-high,Stationary (after exercise),True,6,male,False,False,False,/subject14/p14_13.mat
+15,LED-low,Stationary,False,6,female,False,False,False,/subject15/p15_0.mat
+15,LED-low,Rotation,False,6,female,False,False,False,/subject15/p15_1.mat
+15,Incandescent,Talking,False,6,female,False,False,False,/subject15/p15_10.mat
+15,Incandescent,Walking,False,6,female,False,False,False,/subject15/p15_11.mat
+15,LED-high,Stationary (after exercise),True,6,female,False,False,False,/subject15/p15_13.mat
+15,LED-low,Stationary (after exercise),True,6,female,False,False,False,/subject15/p15_14.mat
+15,Nature,Stationary (after exercise),True,6,female,False,False,False,/subject15/p15_15.mat
+15,Nature,Rotation,False,6,female,False,False,False,/subject15/p15_17.mat
+15,Nature,Talking,False,6,female,False,False,False,/subject15/p15_18.mat
+15,Nature,Walking,False,6,female,False,False,False,/subject15/p15_19.mat
+15,LED-low,Walking,False,6,female,False,False,False,/subject15/p15_3.mat
+15,LED-high,Stationary,False,6,female,False,False,False,/subject15/p15_4.mat
+15,LED-high,Rotation,False,6,female,False,False,False,/subject15/p15_5.mat
+15,LED-high,Talking,False,6,female,False,False,False,/subject15/p15_6.mat
+15,LED-high,Walking,False,6,female,False,False,False,/subject15/p15_7.mat
+15,Incandescent,Rotation,False,6,female,False,False,False,/subject15/p15_9.mat
+15,Nature,Stationary,False,6,female,False,False,False,/subject15/p15_16.mat
+15,LED-low,Talking,False,6,female,False,False,False,/subject15/p15_2.mat
+15,Incandescent,Stationary (after exercise),True,6,female,False,False,False,/subject15/p15_12.mat
+15,Incandescent,Stationary,False,6,female,False,False,False,/subject15/p15_8.mat
+16,LED-high,Stationary,False,6,male,False,False,False,/subject16/p16_4.mat
+16,LED-low,Walking,False,6,male,False,False,False,/subject16/p16_3.mat
+16,LED-low,Talking,False,6,male,False,False,False,/subject16/p16_2.mat
+16,Nature,Walking,False,6,male,False,False,False,/subject16/p16_19.mat
+16,Nature,Talking,False,6,male,False,False,False,/subject16/p16_18.mat
+16,Nature,Rotation,False,6,male,False,False,False,/subject16/p16_17.mat
+16,Nature,Stationary,False,6,male,False,False,False,/subject16/p16_16.mat
+16,LED-high,Rotation,False,6,male,False,False,False,/subject16/p16_5.mat
+16,Incandescent,Stationary,False,6,male,False,False,False,/subject16/p16_8.mat
+16,LED-low,Stationary (after exercise),True,6,male,False,False,False,/subject16/p16_14.mat
+16,LED-high,Stationary (after exercise),True,6,male,False,False,False,/subject16/p16_13.mat
+16,Incandescent,Stationary (after exercise),True,6,male,False,False,False,/subject16/p16_12.mat
+16,Incandescent,Walking,False,6,male,False,False,False,/subject16/p16_11.mat
+16,Incandescent,Talking,False,6,male,False,False,False,/subject16/p16_10.mat
+16,LED-low,Rotation,False,6,male,False,False,False,/subject16/p16_1.mat
+16,LED-low,Stationary,False,6,male,False,False,False,/subject16/p16_0.mat
+16,Nature,Stationary (after exercise),True,6,male,False,False,False,/subject16/p16_15.mat
+16,LED-high,Talking,False,6,male,False,False,False,/subject16/p16_6.mat
+16,Incandescent,Rotation,False,6,male,False,False,False,/subject16/p16_9.mat
+16,LED-high,Walking,False,6,male,False,False,False,/subject16/p16_7.mat
+17,Incandescent,Rotation,False,4,male,False,False,False,/subject17/p17_9.mat
+17,LED-high,Walking,False,4,male,False,False,False,/subject17/p17_7.mat
+17,LED-high,Talking,False,4,male,False,False,False,/subject17/p17_6.mat
+17,LED-high,Rotation,False,4,male,False,False,False,/subject17/p17_5.mat
+17,LED-high,Stationary,False,4,male,False,False,False,/subject17/p17_4.mat
+17,LED-low,Walking,False,4,male,False,False,False,/subject17/p17_3.mat
+17,LED-low,Talking,False,4,male,False,False,False,/subject17/p17_2.mat
+17,Nature,Walking,False,4,male,False,False,False,/subject17/p17_19.mat
+17,Nature,Talking,False,4,male,False,False,False,/subject17/p17_18.mat
+17,Nature,Rotation,False,4,male,False,False,False,/subject17/p17_17.mat
+17,Nature,Stationary (after exercise),True,4,male,False,False,False,/subject17/p17_15.mat
+17,LED-low,Stationary (after exercise),True,4,male,False,False,False,/subject17/p17_14.mat
+17,LED-high,Stationary (after exercise),True,4,male,False,False,False,/subject17/p17_13.mat
+17,Incandescent,Stationary (after exercise),True,4,male,False,False,False,/subject17/p17_12.mat
+17,Incandescent,Walking,False,4,male,False,False,False,/subject17/p17_11.mat
+17,Incandescent,Talking,False,4,male,False,False,False,/subject17/p17_10.mat
+17,LED-low,Rotation,False,4,male,False,False,False,/subject17/p17_1.mat
+17,LED-low,Stationary,False,4,male,False,False,False,/subject17/p17_0.mat
+17,Nature,Stationary,False,4,male,False,False,False,/subject17/p17_16.mat
+17,Incandescent,Stationary,False,4,male,False,False,False,/subject17/p17_8.mat
+18,LED-low,Stationary,False,3,female,True,True,False,/subject18/p18_0.mat
+18,Incandescent,Rotation,False,3,female,True,True,False,/subject18/p18_9.mat
+18,LED-high,Walking,False,3,female,True,True,False,/subject18/p18_7.mat
+18,LED-high,Talking,False,3,female,True,True,False,/subject18/p18_6.mat
+18,LED-high,Rotation,False,3,female,True,True,False,/subject18/p18_5.mat
+18,LED-high,Stationary,False,3,female,True,True,False,/subject18/p18_4.mat
+18,LED-low,Talking,False,3,female,True,True,False,/subject18/p18_2.mat
+18,Nature,Walking,False,3,female,True,True,False,/subject18/p18_19.mat
+18,Nature,Talking,False,3,female,True,True,False,/subject18/p18_18.mat
+18,Nature,Rotation,False,3,female,True,True,False,/subject18/p18_17.mat
+18,LED-low,Walking,False,3,female,True,True,False,/subject18/p18_3.mat
+18,Nature,Stationary (after exercise),True,3,female,True,True,False,/subject18/p18_15.mat
+18,Nature,Stationary,False,3,female,True,True,False,/subject18/p18_16.mat
+18,LED-low,Rotation,False,3,female,True,True,False,/subject18/p18_1.mat
+18,Incandescent,Talking,False,3,female,True,True,False,/subject18/p18_10.mat
+18,Incandescent,Walking,False,3,female,True,True,False,/subject18/p18_11.mat
+18,Incandescent,Stationary,False,3,female,True,True,False,/subject18/p18_8.mat
+18,LED-high,Stationary (after exercise),True,3,female,True,True,False,/subject18/p18_13.mat
+18,LED-low,Stationary (after exercise),True,3,female,True,True,False,/subject18/p18_14.mat
+18,Incandescent,Stationary (after exercise),True,3,female,True,True,False,/subject18/p18_12.mat
+19,LED-low,Talking,False,3,female,False,True,False,/subject19/p19_2.mat
+19,Incandescent,Rotation,False,3,female,False,True,False,/subject19/p19_9.mat
+19,Incandescent,Stationary,False,3,female,False,True,False,/subject19/p19_8.mat
+19,LED-high,Walking,False,3,female,False,True,False,/subject19/p19_7.mat
+19,LED-high,Talking,False,3,female,False,True,False,/subject19/p19_6.mat
+19,LED-high,Rotation,False,3,female,False,True,False,/subject19/p19_5.mat
+19,LED-high,Stationary,False,3,female,False,True,False,/subject19/p19_4.mat
+19,LED-low,Walking,False,3,female,False,True,False,/subject19/p19_3.mat
+19,LED-low,Stationary,False,3,female,False,True,False,/subject19/p19_0.mat
+19,Nature,Walking,False,3,female,False,True,False,/subject19/p19_19.mat
+19,Nature,Rotation,False,3,female,False,True,False,/subject19/p19_17.mat
+19,Nature,Stationary,False,3,female,False,True,False,/subject19/p19_16.mat
+19,Nature,Stationary (after exercise),True,3,female,False,True,False,/subject19/p19_15.mat
+19,LED-low,Stationary (after exercise),True,3,female,False,True,False,/subject19/p19_14.mat
+19,LED-high,Stationary (after exercise),True,3,female,False,True,False,/subject19/p19_13.mat
+19,Incandescent,Stationary (after exercise),True,3,female,False,True,False,/subject19/p19_12.mat
+19,Incandescent,Walking,False,3,female,False,True,False,/subject19/p19_11.mat
+19,Incandescent,Talking,False,3,female,False,True,False,/subject19/p19_10.mat
+19,LED-low,Rotation,False,3,female,False,True,False,/subject19/p19_1.mat
+19,Nature,Talking,False,3,female,False,True,False,/subject19/p19_18.mat
+20,LED-low,Talking,False,3,male,False,False,False,/subject20/p20_2.mat
+20,LED-low,Walking,False,3,male,False,False,False,/subject20/p20_3.mat
+20,LED-high,Walking,False,3,male,False,False,False,/subject20/p20_7.mat
+20,LED-high,Rotation,False,3,male,False,False,False,/subject20/p20_5.mat
+20,LED-high,Talking,False,3,male,False,False,False,/subject20/p20_6.mat
+20,Nature,Walking,False,3,male,False,False,False,/subject20/p20_19.mat
+20,LED-high,Stationary,False,3,male,False,False,False,/subject20/p20_4.mat
+20,Nature,Talking,False,3,male,False,False,False,/subject20/p20_18.mat
+20,LED-low,Stationary (after exercise),True,3,male,False,False,False,/subject20/p20_14.mat
+20,Nature,Stationary,False,3,male,False,False,False,/subject20/p20_16.mat
+20,Nature,Stationary (after exercise),True,3,male,False,False,False,/subject20/p20_15.mat
+20,LED-high,Stationary (after exercise),True,3,male,False,False,False,/subject20/p20_13.mat
+20,Incandescent,Stationary (after exercise),True,3,male,False,False,False,/subject20/p20_12.mat
+20,Incandescent,Walking,False,3,male,False,False,False,/subject20/p20_11.mat
+20,Incandescent,Talking,False,3,male,False,False,False,/subject20/p20_10.mat
+20,LED-low,Rotation,False,3,male,False,False,False,/subject20/p20_1.mat
+20,LED-low,Stationary,False,3,male,False,False,False,/subject20/p20_0.mat
+20,Nature,Rotation,False,3,male,False,False,False,/subject20/p20_17.mat
+20,Incandescent,Rotation,False,3,male,False,False,False,/subject20/p20_9.mat
+20,Incandescent,Stationary,False,3,male,False,False,False,/subject20/p20_8.mat
+21,LED-low,Rotation,False,3,female,True,False,True,/subject21/p21_1.mat
+21,LED-low,Stationary,False,3,female,True,False,True,/subject21/p21_0.mat
+21,Incandescent,Rotation,False,3,female,True,False,True,/subject21/p21_9.mat
+21,Incandescent,Stationary,False,3,female,True,False,True,/subject21/p21_8.mat
+21,LED-high,Walking,False,3,female,True,False,True,/subject21/p21_7.mat
+21,LED-high,Talking,False,3,female,True,False,True,/subject21/p21_6.mat
+21,LED-high,Rotation,False,3,female,True,False,True,/subject21/p21_5.mat
+21,LED-high,Stationary,False,3,female,True,False,True,/subject21/p21_4.mat
+21,LED-low,Walking,False,3,female,True,False,True,/subject21/p21_3.mat
+21,LED-low,Talking,False,3,female,True,False,True,/subject21/p21_2.mat
+21,Nature,Stationary,False,3,female,True,False,True,/subject21/p21_16.mat
+21,Nature,Talking,False,3,female,True,False,True,/subject21/p21_18.mat
+21,Nature,Walking,False,3,female,True,False,True,/subject21/p21_19.mat
+21,Incandescent,Walking,False,3,female,True,False,True,/subject21/p21_11.mat
+21,Incandescent,Stationary (after exercise),True,3,female,True,False,True,/subject21/p21_12.mat
+21,Incandescent,Talking,False,3,female,True,False,True,/subject21/p21_10.mat
+21,LED-low,Stationary (after exercise),True,3,female,True,False,True,/subject21/p21_14.mat
+21,Nature,Stationary (after exercise),True,3,female,True,False,True,/subject21/p21_15.mat
+21,Nature,Rotation,False,3,female,True,False,True,/subject21/p21_17.mat
+21,LED-high,Stationary (after exercise),True,3,female,True,False,True,/subject21/p21_13.mat
+22,Incandescent,Rotation,False,3,female,False,False,False,/subject22/p22_9.mat
+22,LED-low,Talking,False,3,female,False,False,False,/subject22/p22_2.mat
+22,Incandescent,Stationary,False,3,female,False,False,False,/subject22/p22_8.mat
+22,LED-high,Walking,False,3,female,False,False,False,/subject22/p22_7.mat
+22,LED-high,Talking,False,3,female,False,False,False,/subject22/p22_6.mat
+22,LED-high,Rotation,False,3,female,False,False,False,/subject22/p22_5.mat
+22,LED-high,Stationary,False,3,female,False,False,False,/subject22/p22_4.mat
+22,LED-low,Walking,False,3,female,False,False,False,/subject22/p22_3.mat
+22,Nature,Walking,False,3,female,False,False,False,/subject22/p22_19.mat
+22,Nature,Stationary (after exercise),True,3,female,False,False,False,/subject22/p22_15.mat
+22,Nature,Rotation,False,3,female,False,False,False,/subject22/p22_17.mat
+22,Nature,Stationary,False,3,female,False,False,False,/subject22/p22_16.mat
+22,LED-low,Stationary (after exercise),True,3,female,False,False,False,/subject22/p22_14.mat
+22,LED-high,Stationary (after exercise),True,3,female,False,False,False,/subject22/p22_13.mat
+22,Incandescent,Stationary (after exercise),True,3,female,False,False,False,/subject22/p22_12.mat
+22,Incandescent,Walking,False,3,female,False,False,False,/subject22/p22_11.mat
+22,Incandescent,Talking,False,3,female,False,False,False,/subject22/p22_10.mat
+22,LED-low,Stationary,False,3,female,False,False,False,/subject22/p22_0.mat
+22,Nature,Talking,False,3,female,False,False,False,/subject22/p22_18.mat
+22,LED-low,Rotation,False,3,female,False,False,False,/subject22/p22_1.mat
+23,LED-high,Walking,False,5,female,False,False,False,/subject23/p23_7.mat
+23,LED-low,Stationary,False,5,female,False,False,False,/subject23/p23_0.mat
+23,LED-high,Talking,False,5,female,False,False,False,/subject23/p23_6.mat
+23,LED-high,Rotation,False,5,female,False,False,False,/subject23/p23_5.mat
+23,LED-high,Stationary,False,5,female,False,False,False,/subject23/p23_4.mat
+23,LED-low,Walking,False,5,female,False,False,False,/subject23/p23_3.mat
+23,LED-low,Talking,False,5,female,False,False,False,/subject23/p23_2.mat
+23,Nature,Walking,False,5,female,False,False,False,/subject23/p23_19.mat
+23,Nature,Talking,False,5,female,False,False,False,/subject23/p23_18.mat
+23,Incandescent,Stationary,False,5,female,False,False,False,/subject23/p23_8.mat
+23,Nature,Rotation,False,5,female,False,False,False,/subject23/p23_17.mat
+23,Nature,Stationary (after exercise),True,5,female,False,False,False,/subject23/p23_15.mat
+23,LED-low,Stationary (after exercise),True,5,female,False,False,False,/subject23/p23_14.mat
+23,LED-high,Stationary (after exercise),True,5,female,False,False,False,/subject23/p23_13.mat
+23,Incandescent,Stationary (after exercise),True,5,female,False,False,False,/subject23/p23_12.mat
+23,Incandescent,Walking,False,5,female,False,False,False,/subject23/p23_11.mat
+23,Incandescent,Talking,False,5,female,False,False,False,/subject23/p23_10.mat
+23,LED-low,Rotation,False,5,female,False,False,False,/subject23/p23_1.mat
+23,Nature,Stationary,False,5,female,False,False,False,/subject23/p23_16.mat
+23,Incandescent,Rotation,False,5,female,False,False,False,/subject23/p23_9.mat
+24,Nature,Rotation,False,3,female,False,False,True,/subject24/p24_17.mat
+24,LED-high,Stationary,False,3,female,False,False,True,/subject24/p24_4.mat
+24,Incandescent,Rotation,False,3,female,False,False,True,/subject24/p24_9.mat
+24,Incandescent,Stationary,False,3,female,False,False,True,/subject24/p24_8.mat
+24,LED-high,Walking,False,3,female,False,False,True,/subject24/p24_7.mat
+24,LED-high,Talking,False,3,female,False,False,True,/subject24/p24_6.mat
+24,LED-high,Rotation,False,3,female,False,False,True,/subject24/p24_5.mat
+24,LED-low,Walking,False,3,female,False,False,True,/subject24/p24_3.mat
+24,LED-low,Talking,False,3,female,False,False,True,/subject24/p24_2.mat
+24,Nature,Talking,False,3,female,False,False,True,/subject24/p24_18.mat
+24,Nature,Walking,False,3,female,False,False,True,/subject24/p24_19.mat
+24,Nature,Stationary (after exercise),True,3,female,False,False,True,/subject24/p24_15.mat
+24,LED-low,Stationary (after exercise),True,3,female,False,False,True,/subject24/p24_14.mat
+24,LED-high,Stationary (after exercise),True,3,female,False,False,True,/subject24/p24_13.mat
+24,Incandescent,Stationary (after exercise),True,3,female,False,False,True,/subject24/p24_12.mat
+24,Incandescent,Walking,False,3,female,False,False,True,/subject24/p24_11.mat
+24,Incandescent,Talking,False,3,female,False,False,True,/subject24/p24_10.mat
+24,LED-low,Rotation,False,3,female,False,False,True,/subject24/p24_1.mat
+24,LED-low,Stationary,False,4,male,False,False,False,/subject24/p24_0.mat
+24,Nature,Stationary,False,3,female,False,False,True,/subject24/p24_16.mat
+25,LED-high,Stationary,False,3,female,False,True,False,/subject25/p25_4.mat
+25,LED-low,Talking,False,3,female,False,True,False,/subject25/p25_2.mat
+25,LED-low,Walking,False,3,female,False,True,False,/subject25/p25_3.mat
+25,LED-high,Rotation,False,3,female,False,True,False,/subject25/p25_5.mat
+25,Incandescent,Stationary (after exercise),True,3,female,False,True,False,/subject25/p25_12.mat
+25,LED-high,Walking,False,3,female,False,True,False,/subject25/p25_7.mat
+25,Incandescent,Stationary,False,3,female,False,True,False,/subject25/p25_8.mat
+25,Incandescent,Rotation,False,3,female,False,True,False,/subject25/p25_9.mat
+25,Nature,Walking,False,3,female,False,True,False,/subject25/p25_19.mat
+25,LED-high,Talking,False,3,female,False,True,False,/subject25/p25_6.mat
+25,Nature,Talking,False,3,female,False,True,False,/subject25/p25_18.mat
+25,LED-low,Rotation,False,3,female,False,True,False,/subject25/p25_1.mat
+25,Nature,Stationary,False,3,female,False,True,False,/subject25/p25_16.mat
+25,Nature,Stationary (after exercise),True,3,female,False,True,False,/subject25/p25_15.mat
+25,LED-low,Stationary (after exercise),True,3,female,False,True,False,/subject25/p25_14.mat
+25,LED-high,Stationary (after exercise),True,3,female,False,True,False,/subject25/p25_13.mat
+25,Incandescent,Walking,False,3,female,False,True,False,/subject25/p25_11.mat
+25,Incandescent,Talking,False,3,female,False,True,False,/subject25/p25_10.mat
+25,LED-low,Stationary,False,3,female,False,True,False,/subject25/p25_0.mat
+25,Nature,Rotation,False,3,female,False,True,False,/subject25/p25_17.mat
+26,LED-low,Talking,False,6,male,False,False,False,/subject26/p26_2.mat
+26,LED-high,Stationary,False,6,male,False,False,False,/subject26/p26_4.mat
+26,LED-low,Walking,False,6,male,False,False,False,/subject26/p26_3.mat
+26,LED-high,Rotation,False,6,male,False,False,False,/subject26/p26_5.mat
+26,Nature,Stationary,False,6,male,False,False,False,/subject26/p26_16.mat
+26,LED-high,Walking,False,6,male,False,False,False,/subject26/p26_7.mat
+26,Incandescent,Stationary,False,6,male,False,False,False,/subject26/p26_8.mat
+26,Incandescent,Rotation,False,6,male,False,False,False,/subject26/p26_9.mat
+26,Nature,Walking,False,6,male,False,False,False,/subject26/p26_19.mat
+26,LED-high,Talking,False,6,male,False,False,False,/subject26/p26_6.mat
+26,Nature,Talking,False,6,male,False,False,False,/subject26/p26_18.mat
+26,Incandescent,Walking,False,6,male,False,False,False,/subject26/p26_11.mat
+26,Nature,Stationary (after exercise),True,6,male,False,False,False,/subject26/p26_15.mat
+26,LED-low,Stationary (after exercise),True,6,male,False,False,False,/subject26/p26_14.mat
+26,LED-high,Stationary (after exercise),True,6,male,False,False,False,/subject26/p26_13.mat
+26,Incandescent,Stationary (after exercise),True,6,male,False,False,False,/subject26/p26_12.mat
+26,Incandescent,Talking,False,6,male,False,False,False,/subject26/p26_10.mat
+26,LED-low,Rotation,False,6,male,False,False,False,/subject26/p26_1.mat
+26,LED-low,Stationary,False,6,male,False,False,False,/subject26/p26_0.mat
+26,Nature,Rotation,False,6,male,False,False,False,/subject26/p26_17.mat
+27,Nature,Stationary,False,3,female,False,False,True,/subject27/p27_16.mat
+27,Nature,Walking,False,3,female,False,False,True,/subject27/p27_19.mat
+27,LED-low,Talking,False,3,female,False,False,True,/subject27/p27_2.mat
+27,LED-low,Walking,False,3,female,False,False,True,/subject27/p27_3.mat
+27,LED-high,Stationary,False,3,female,False,False,True,/subject27/p27_4.mat
+27,Incandescent,Stationary,False,3,female,False,False,True,/subject27/p27_8.mat
+27,LED-high,Talking,False,3,female,False,False,True,/subject27/p27_6.mat
+27,LED-high,Walking,False,3,female,False,False,True,/subject27/p27_7.mat
+27,Incandescent,Rotation,False,3,female,False,False,True,/subject27/p27_9.mat
+27,LED-high,Rotation,False,3,female,False,False,True,/subject27/p27_5.mat
+27,Nature,Talking,False,3,female,False,False,True,/subject27/p27_18.mat
+27,LED-low,Stationary (after exercise),True,3,female,False,False,True,/subject27/p27_14.mat
+27,Nature,Stationary (after exercise),True,3,female,False,False,True,/subject27/p27_15.mat
+27,LED-high,Stationary (after exercise),True,3,female,False,False,True,/subject27/p27_13.mat
+27,Incandescent,Stationary (after exercise),True,3,female,False,False,True,/subject27/p27_12.mat
+27,Incandescent,Walking,False,3,female,False,False,True,/subject27/p27_11.mat
+27,Incandescent,Talking,False,3,female,False,False,True,/subject27/p27_10.mat
+27,LED-low,Rotation,False,3,female,False,False,True,/subject27/p27_1.mat
+27,LED-low,Stationary,False,3,female,False,False,True,/subject27/p27_0.mat
+27,Nature,Rotation,False,3,female,False,False,True,/subject27/p27_17.mat
+28,Nature,Walking,False,5,female,False,False,False,/subject28/p28_19.mat
+28,Nature,Talking,False,5,female,False,False,False,/subject28/p28_18.mat
+28,LED-low,Talking,False,5,female,False,False,False,/subject28/p28_2.mat
+28,LED-high,Rotation,False,5,female,False,False,False,/subject28/p28_5.mat
+28,LED-high,Stationary,False,5,female,False,False,False,/subject28/p28_4.mat
+28,Nature,Rotation,False,5,female,False,False,False,/subject28/p28_17.mat
+28,LED-low,Walking,False,5,female,False,False,False,/subject28/p28_3.mat
+28,Nature,Stationary,False,5,female,False,False,False,/subject28/p28_16.mat
+28,Incandescent,Stationary,False,5,female,False,False,False,/subject28/p28_8.mat
+28,LED-low,Stationary (after exercise),True,5,female,False,False,False,/subject28/p28_14.mat
+28,LED-high,Stationary (after exercise),True,5,female,False,False,False,/subject28/p28_13.mat
+28,Incandescent,Stationary (after exercise),True,5,female,False,False,False,/subject28/p28_12.mat
+28,Incandescent,Walking,False,5,female,False,False,False,/subject28/p28_11.mat
+28,Incandescent,Talking,False,5,female,False,False,False,/subject28/p28_10.mat
+28,LED-low,Rotation,False,5,female,False,False,False,/subject28/p28_1.mat
+28,LED-low,Stationary,False,5,female,False,False,False,/subject28/p28_0.mat
+28,LED-high,Talking,False,5,female,False,False,False,/subject28/p28_6.mat
+28,Nature,Stationary (after exercise),True,5,female,False,False,False,/subject28/p28_15.mat
+28,LED-high,Walking,False,5,female,False,False,False,/subject28/p28_7.mat
+28,Incandescent,Rotation,False,5,female,False,False,False,/subject28/p28_9.mat
+29,Incandescent,Rotation,False,3,female,True,True,False,/subject29/p29_9.mat
+29,Incandescent,Stationary,False,3,female,True,True,False,/subject29/p29_8.mat
+29,LED-high,Walking,False,3,female,True,True,False,/subject29/p29_7.mat
+29,LED-high,Talking,False,3,female,True,True,False,/subject29/p29_6.mat
+29,LED-high,Rotation,False,3,female,True,True,False,/subject29/p29_5.mat
+29,LED-high,Stationary,False,3,female,True,True,False,/subject29/p29_4.mat
+29,LED-low,Walking,False,3,female,True,True,False,/subject29/p29_3.mat
+29,LED-low,Talking,False,3,female,True,True,False,/subject29/p29_2.mat
+29,Nature,Walking,False,3,female,True,True,False,/subject29/p29_19.mat
+29,Nature,Talking,False,3,female,True,True,False,/subject29/p29_18.mat
+29,LED-low,Stationary,False,3,female,True,True,False,/subject29/p29_0.mat
+29,Nature,Stationary,False,3,female,True,True,False,/subject29/p29_16.mat
+29,Nature,Stationary (after exercise),True,3,female,True,True,False,/subject29/p29_15.mat
+29,LED-low,Stationary (after exercise),True,3,female,True,True,False,/subject29/p29_14.mat
+29,LED-high,Stationary (after exercise),True,3,female,True,True,False,/subject29/p29_13.mat
+29,Incandescent,Stationary (after exercise),True,3,female,True,True,False,/subject29/p29_12.mat
+29,Incandescent,Walking,False,3,female,True,True,False,/subject29/p29_11.mat
+29,Incandescent,Talking,False,3,female,True,True,False,/subject29/p29_10.mat
+29,LED-low,Rotation,False,3,female,True,True,False,/subject29/p29_1.mat
+29,Nature,Rotation,False,3,female,True,True,False,/subject29/p29_17.mat
+30,LED-low,Walking,False,6,male,False,False,False,/subject30/p30_3.mat
+30,LED-high,Stationary,False,6,male,False,False,False,/subject30/p30_4.mat
+30,Incandescent,Stationary,False,6,male,False,False,False,/subject30/p30_8.mat
+30,LED-high,Talking,False,6,male,False,False,False,/subject30/p30_6.mat
+30,LED-high,Walking,False,6,male,False,False,False,/subject30/p30_7.mat
+30,LED-low,Talking,False,6,male,False,False,False,/subject30/p30_2.mat
+30,LED-high,Rotation,False,6,male,False,False,False,/subject30/p30_5.mat
+30,Nature,Walking,False,6,male,False,False,False,/subject30/p30_19.mat
+30,LED-low,Stationary (after exercise),True,6,male,False,False,False,/subject30/p30_14.mat
+30,Nature,Rotation,False,6,male,False,False,False,/subject30/p30_17.mat
+30,Nature,Stationary,False,6,male,False,False,False,/subject30/p30_16.mat
+30,Nature,Stationary (after exercise),True,6,male,False,False,False,/subject30/p30_15.mat
+30,LED-high,Stationary (after exercise),True,6,male,False,False,False,/subject30/p30_13.mat
+30,Incandescent,Stationary (after exercise),True,6,male,False,False,False,/subject30/p30_12.mat
+30,Incandescent,Walking,False,6,male,False,False,False,/subject30/p30_11.mat
+30,Incandescent,Talking,False,6,male,False,False,False,/subject30/p30_10.mat
+30,Incandescent,Rotation,False,6,male,False,False,False,/subject30/p30_9.mat
+30,Nature,Talking,False,6,male,False,False,False,/subject30/p30_18.mat
+30,LED-low,Stationary,False,6,male,False,False,False,/subject30/p30_0.mat
+30,LED-low,Rotation,False,6,male,False,False,False,/subject30/p30_1.mat
+31,Nature,Talking,False,5,male,False,False,False,/subject31/p31_18.mat
+31,LED-high,Walking,False,5,male,False,False,False,/subject31/p31_7.mat
+31,LED-high,Talking,False,5,male,False,False,False,/subject31/p31_6.mat
+31,LED-high,Rotation,False,5,male,False,False,False,/subject31/p31_5.mat
+31,LED-high,Stationary,False,5,male,False,False,False,/subject31/p31_4.mat
+31,LED-low,Walking,False,5,male,False,False,False,/subject31/p31_3.mat
+31,LED-low,Talking,False,5,male,False,False,False,/subject31/p31_2.mat
+31,Nature,Walking,False,5,male,False,False,False,/subject31/p31_19.mat
+31,Nature,Rotation,False,5,male,False,False,False,/subject31/p31_17.mat
+31,Nature,Stationary,False,5,male,False,False,False,/subject31/p31_16.mat
+31,Nature,Stationary (after exercise),True,5,male,False,False,False,/subject31/p31_15.mat
+31,LED-low,Stationary (after exercise),True,5,male,False,False,False,/subject31/p31_14.mat
+31,LED-high,Stationary (after exercise),True,5,male,False,False,False,/subject31/p31_13.mat
+31,Incandescent,Stationary (after exercise),True,5,male,False,False,False,/subject31/p31_12.mat
+31,Incandescent,Walking,False,5,male,False,False,False,/subject31/p31_11.mat
+31,Incandescent,Talking,False,5,male,False,False,False,/subject31/p31_10.mat
+31,LED-low,Rotation,False,5,male,False,False,False,/subject31/p31_1.mat
+31,LED-low,Stationary,False,5,male,False,False,False,/subject31/p31_0.mat
+31,Incandescent,Stationary,False,5,male,False,False,False,/subject31/p31_8.mat
+31,Incandescent,Rotation,False,5,male,False,False,False,/subject31/p31_9.mat
+32,Incandescent,Rotation,False,3,female,False,False,False,/subject32/p32_9.mat
+32,LED-low,Rotation,False,3,female,False,False,False,/subject32/p32_1.mat
+32,LED-low,Stationary,False,3,female,False,False,False,/subject32/p32_0.mat
+32,Incandescent,Stationary,False,3,female,False,False,False,/subject32/p32_8.mat
+32,LED-high,Walking,False,3,female,False,False,False,/subject32/p32_7.mat
+32,LED-high,Talking,False,3,female,False,False,False,/subject32/p32_6.mat
+32,LED-high,Rotation,False,3,female,False,False,False,/subject32/p32_5.mat
+32,LED-high,Stationary,False,3,female,False,False,False,/subject32/p32_4.mat
+32,LED-low,Walking,False,3,female,False,False,False,/subject32/p32_3.mat
+32,LED-low,Talking,False,3,female,False,False,False,/subject32/p32_2.mat
+32,Nature,Walking,False,3,female,False,False,False,/subject32/p32_19.mat
+32,Nature,Talking,False,3,female,False,False,False,/subject32/p32_18.mat
+32,Nature,Rotation,False,3,female,False,False,False,/subject32/p32_17.mat
+32,Incandescent,Walking,False,3,female,False,False,False,/subject32/p32_11.mat
+32,Incandescent,Stationary (after exercise),True,3,female,False,False,False,/subject32/p32_12.mat
+32,LED-high,Stationary (after exercise),True,3,female,False,False,False,/subject32/p32_13.mat
+32,Incandescent,Talking,False,3,female,False,False,False,/subject32/p32_10.mat
+32,Nature,Stationary (after exercise),True,3,female,False,False,False,/subject32/p32_15.mat
+32,Nature,Stationary,False,3,female,False,False,False,/subject32/p32_16.mat
+32,LED-low,Stationary (after exercise),True,3,female,False,False,False,/subject32/p32_14.mat
+33,Incandescent,Rotation,False,3,female,False,False,False,/subject33/p33_9.mat
+33,LED-low,Talking,False,3,female,False,False,False,/subject33/p33_2.mat
+33,Incandescent,Stationary,False,3,female,False,False,False,/subject33/p33_8.mat
+33,LED-high,Walking,False,3,female,False,False,False,/subject33/p33_7.mat
+33,LED-high,Talking,False,3,female,False,False,False,/subject33/p33_6.mat
+33,LED-high,Rotation,False,3,female,False,False,False,/subject33/p33_5.mat
+33,LED-high,Stationary,False,3,female,False,False,False,/subject33/p33_4.mat
+33,LED-low,Walking,False,3,female,False,False,False,/subject33/p33_3.mat
+33,Nature,Walking,False,3,female,False,False,False,/subject33/p33_19.mat
+33,Nature,Stationary (after exercise),True,3,female,False,False,False,/subject33/p33_15.mat
+33,Nature,Rotation,False,3,female,False,False,False,/subject33/p33_17.mat
+33,Nature,Stationary,False,3,female,False,False,False,/subject33/p33_16.mat
+33,LED-low,Rotation,False,3,female,False,False,False,/subject33/p33_1.mat
+33,LED-low,Stationary (after exercise),True,3,female,False,False,False,/subject33/p33_14.mat
+33,LED-high,Stationary (after exercise),True,3,female,False,False,False,/subject33/p33_13.mat
+33,Incandescent,Stationary (after exercise),True,3,female,False,False,False,/subject33/p33_12.mat
+33,Incandescent,Walking,False,3,female,False,False,False,/subject33/p33_11.mat
+33,LED-low,Stationary,False,3,female,False,False,False,/subject33/p33_0.mat
+33,Nature,Talking,False,3,female,False,False,False,/subject33/p33_18.mat
+33,Incandescent,Talking,False,3,female,False,False,False,/subject33/p33_10.mat
