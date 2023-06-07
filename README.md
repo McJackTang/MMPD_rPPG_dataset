@@ -1,4 +1,4 @@
-# MMPD[EMBC 2023]
+# MMPD[EMBC 2023 Oral]
 
 ## Abstract
 
