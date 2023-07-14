@@ -6,7 +6,7 @@
 The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(**1152K frames**) of recordings from mobile phones of 33 subjects. The dataset was designed to capture videos with greater representation across **skin tone, body motion, and lighting conditions**. MMPD is comprehensive with eight descriptive labels and can be used in conjunction with the [rPPG-toolbox(PyTorch)](https://github.com/ubicomplab/rPPG-Toolbox) and [PhysBench](https://github.com/KegangWangCCNU/PhysBench).  
 
 
-**Code is now updated in the `rPPG-Toolbox_MMPD` file fold, allowing users to choose any combination of multiple labels. More details would be uploaded soon.For those whose have downloaded or prepare to download our dataset: you are recommended to star this repo in case the dataset may be updated.**
+**Code is now updated in the `rPPG-Toolbox_MMPD` file fold, allowing users to choose any combination of multiple labels. More details would be uploaded soon. For those who have downloaded or prepare to download our dataset: you are recommended to star this repo in case the dataset may be updated. Recently, we have updated the size.csv file for checking data integrity.**
 
 ```
 @misc{tang2023mmpd,
@@ -92,7 +92,7 @@ There are two ways for downloads： OneDrive and Baidu Netdisk for researchers o
 ```
 MMPD_Dataset
 ├── subject1
-    ├── p1_0.mat        # px_y.mat: x refers to the order of subjects, y refers to the order of the experiments, whcich is corresponding to the experiment procedure.
+    ├── p1_0.mat        # px_y.mat: x refers to the order of subjects, y refers to the order of the experiments, whcich corresponds to the experiment procedure.
         ├── video       # Rendered images of the subjects at 320 x 240 resolution     [t, w, h, c]
         ├── GT_ppg      # PPG wavefrom signal                                         [t]
         ├── light       # 'LED-low','LED-high','Incandescent','Nature' 
@@ -107,6 +107,7 @@ MMPD_Dataset
     ├── p1_19.mat
 ├── ...
 ├── subject33
+├── size.csv # Each line stands for a mat file and the bytes of this mat file
 ```
  
 Reading the data example:
@@ -118,8 +119,8 @@ print(f.keys())
 ```
 
 ## 📝 Results(tested on MMPD)
-### Simplest scenerio
-In the simplest scenerio, we only include the stationary, skin tone type 3, and artificial light conditions as benchmark.
+### Simplest scenario
+In the simplest scenario, we only include the stationary, skin tone type 3, and artificial light conditions as benchmarks.
 | METHODS      | MAE  | RMSE  | MAPE  | PEARSON |
 |--------------|------|-------|-------|---------|
 | ICA          | 8.75 | 12.35 | 12.26 | 0.21    |
@@ -133,12 +134,12 @@ In the simplest scenerio, we only include the stationary, skin tone type 3, and 
 
 ### Unsupervised Signal Processing Methods（Subset）
 
-We evaluated six traditional unsupervised methods in our dataset. In the skin tone comparison, we excluded the exercise, natural light, and walking conditions to eliminate any confounding factors and concentrate on the task at hand. Similarly, the motion comparison experiments excluded the exercise and natural light conditions, while the light comparison experiments excluded the exercise and walking conditions. This approach enabled us to exclude cofouding factors and better understand the unique challenges posed by each task.
+We evaluated six traditional unsupervised methods in our dataset. In the skin tone comparison, we excluded the exercise, natural light, and walking conditions to eliminate any confounding factors and concentrate on the task. Similarly, the motion comparison experiments excluded the exercise and natural light conditions, while the light comparison experiments excluded the exercise and walking conditions. This approach enabled us to exclude cofounding factors and better understand the unique challenges posed by each task.
 
 <img src='https://github.com/McJackTang/Markdown_images/blob/main/unsupervised.jpg' width = 70% height = 70%/>
 
 ### Supervised Deep Learning Methods（Subset）
-In this paper, we investigated how state-of-the-art supervised neural network performs on MMPD and studied the influence of skin tone, motion, and light. We used the same exclusion criteria as the evaluation on unsupervised methods.
+In this paper, we investigated how state-of-the-art supervised neural networks perform on MMPD and studied the influence of skin tone, motion, and light. We used the same exclusion criteria as the evaluation on unsupervised methods.
 
 <img src='https://github.com/McJackTang/Markdown_images/blob/main/supervised.jpg' width = 70% height = 70% />
 
