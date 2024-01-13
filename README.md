@@ -3,21 +3,25 @@
 ## 📖 Abstract
 
 **Here is [MMPD: Multi-Domain Mobile Video Physiology Dataset](<https://doi.org/10.48550/arXiv.2302.03840>) collected by Tsinghua University.**  
-The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(**1152K frames**) of recordings from mobile phones of 33 subjects. The dataset was designed to capture videos with greater representation across **skin tone, body motion, and lighting conditions**. MMPD is comprehensive with eight descriptive labels and can be used in conjunction with the [rPPG-toolbox(PyTorch)](https://github.com/ubicomplab/rPPG-Toolbox) and [PhysBench](https://github.com/KegangWangCCNU/PhysBench).  
-
-
-**Code is now updated in the `rPPG-Toolbox_MMPD` file fold, allowing users to choose any combination of multiple labels. More details would be uploaded soon. For those who have downloaded or prepare to download our dataset: you are recommended to star this repo in case the dataset may be updated. Recently, we have updated the size.csv file for checking data integrity.**
-
+The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(**1152K frames**) of recordings from mobile phones of 33 subjects. The dataset was designed to capture videos with greater representation across **skin tone, body motion, and lighting conditions**. MMPD is comprehensive with eight descriptive labels and can be used in conjunction with the [rPPG-toolbox](https://github.com/ubicomplab/rPPG-Toolbox) and [PhysBench](https://github.com/KegangWangCCNU/PhysBench).  
 ```
-@misc{tang2023mmpd,
-      title={MMPD: Multi-Domain Mobile Video Physiology Dataset}, 
-      author={Jiankai Tang and Kequan Chen and Yuntao Wang and Yuanchun Shi and Shwetak Patel and Daniel McDuff and Xin Liu},
-      year={2023},
-      eprint={2302.03840},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@INPROCEEDINGS{10340857,
+  author={Tang, Jiankai and Chen, Kequan and Wang, Yuntao and Shi, Yuanchun and Patel, Shwetak and McDuff, Daniel and Liu, Xin},
+  booktitle={2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)}, 
+  title={MMPD: Multi-Domain Mobile Video Physiology Dataset}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/EMBC40787.2023.10340857}}
 ```
+## 🔥 Updates
+**[2024/1/13]** **Citation BibTex and Data Release Agreement are updated.**  
+**[2023/6]** **size.csv file is updated, allowing users to check data integrity.**  
+**[2023/4]** **Code is updated in the `rPPG-Toolbox_MMPD` file fold, allowing users to choose any combination of multiple labels.**  
+ For those who have downloaded or are preparing to download our dataset: you are recommended to star this repo in case the dataset is updated without notice.
+
+
 
 ## 🔍 Samples
 |                           |LED-low|LED-high|Incandescent|Nature|
@@ -29,10 +33,11 @@ The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(**1
 
 ## 🗝️ Access and Usage
 **This dataset is built for academic use. Any commercial usage is banned.**  
-To access the dataset, you are supposed to download this [letter of commitment](https://github.com/McJackTang/MMPD_rPPG_dataset/blob/main/Data%20Usage%20Protocol.pdf).  
-Please use the education or affiliation mailbox to email <tjk19@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.cn> with the signed or sealed protocol as an attachment. The signature of staff in the university is preferred.    
-There are two kinds of dataset for convenience: full dataset(370G, 320 x 240 resolution ), mini dataset(48G, 80 x 60 resolution ).    
-There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  For those researchers at China, hard disk could also be a solution.
+There are two kinds of datasets for your convenience: full dataset(370G, 320 x 240 resolution ), mini dataset(48G, 80 x 60 resolution ).    
+There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  For those researchers in China, a hard disk could also be a solution.
+To access the dataset, you are supposed to download this [data release agreement](https://github.com/McJackTang/MMPD_rPPG_dataset/blob/main/MMPD_Release_Agreement.pdf).  
+Please scan and dispatch the completed agreement via your institutional email to <tjk19@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.cn>. The email should have the subject line 'MMPD Access Request -  your institution.' In the email,  outline your institution's past research and articulate the rationale for seeking access to the MMPD, including its intended application in your specific research project.   
+
 
 ## ⚙️ Experiment Procedure[Updated]  
 <img src='https://github.com/McJackTang/Markdown_images/blob/main/procedure.png' width = 50% height = 50% />
@@ -180,13 +185,14 @@ For the full dataset, no existing methods could accurately predict the PPG wave 
 Title: [MMPD: Multi-Domain Mobile Video Physiology Dataset](https://doi.org/10.48550/arXiv.2302.03840)  
 Jiankai Tang, Kequan Chen, Yuntao Wang, Yuanchun Shi, Shwetak Patel, Daniel McDuff, Xin Liu, "MMPD: Multi-Domain Mobile Video Physiology Dataset", IEEE EMBC, 2023  
 ```
-@misc{tang2023mmpd,
-      title={MMPD: Multi-Domain Mobile Video Physiology Dataset}, 
-      author={Jiankai Tang and Kequan Chen and Yuntao Wang and Yuanchun Shi and Shwetak Patel and Daniel McDuff and Xin Liu},
-      year={2023},
-      eprint={2302.03840},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@INPROCEEDINGS{10340857,
+  author={Tang, Jiankai and Chen, Kequan and Wang, Yuntao and Shi, Yuanchun and Patel, Shwetak and McDuff, Daniel and Liu, Xin},
+  booktitle={2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)}, 
+  title={MMPD: Multi-Domain Mobile Video Physiology Dataset}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/EMBC40787.2023.10340857}}
 ```
 
