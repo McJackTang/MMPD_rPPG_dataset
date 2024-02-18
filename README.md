@@ -17,7 +17,8 @@ The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(**1
 ```
 ## 🔥 Updates
 **[2024/1/13]** **Citation BibTex and Data Release Agreement are updated.**  
-**[2023/6]** **size.csv file is updated, allowing users to check data integrity.**  
+**[2023/11]** **Subset of two participants' data available for educational purposes, subject to their consent. University faculty may apply for access to this subset via email.**  
+**[2023/6]** **size.csv file is updated, allowing users to check data integrity.**   
 **[2023/4]** **Code is updated in the `rPPG-Toolbox_MMPD` file fold, allowing users to choose any combination of multiple labels.**  
  For those who have downloaded or are preparing to download our dataset: you are recommended to star this repo in case the dataset is updated without notice.
 
