@@ -16,7 +16,8 @@ The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(**1
   doi={10.1109/EMBC40787.2023.10340857}}
 ```
 ## 🔥 Updates
-**[2024/1/13]** **Citation BibTex and Data Release Agreement are updated.**  
+**[2024/8]** **Contact Email is updated. Please contact ```tjk24@mails.tsinghua.edu.cn``` for the application.**   
+**[2024/1]** **Citation BibTex and Data Release Agreement are updated.**  
 **[2023/11]** **Subset of two participants' data available for educational purposes, subject to their consent. University faculty may apply for access to this subset via email.**  
 **[2023/6]** **size.csv file is updated, allowing users to check data integrity.**   
 **[2023/4]** **Code is updated in the `rPPG-Toolbox_MMPD` file fold, allowing users to choose any combination of multiple labels.**  
@@ -37,7 +38,7 @@ The Multi-domain Mobile Video Physiology Dataset (MMPD), comprising 11 hours(**1
 There are two kinds of datasets for your convenience: full dataset(370G, 320 x 240 resolution ), mini dataset(48G, 80 x 60 resolution ).    
 There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  For those researchers in China, a hard disk could also be a solution.
 To access the dataset, you are supposed to download this [data release agreement](https://github.com/McJackTang/MMPD_rPPG_dataset/blob/main/MMPD_Release_Agreement.pdf).  
-Please scan and dispatch the completed agreement via your institutional email to <tjk19@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.cn>. The email should have the subject line 'MMPD Access Request -  your institution.' In the email,  outline your institution's past research and articulate the rationale for seeking access to the MMPD, including its intended application in your specific research project.   
+Please scan and dispatch the completed agreement via your institutional email to <tjk24@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.cn>. The email should have the subject line 'MMPD Access Request -  your institution.' In the email,  outline your institution's website and publications for seeking access to the MMPD, including its intended application in your specific research project. The email should be sent by a faculty rather than a student.   
 
 
 ## ⚙️ Experiment Procedure[Updated]  
